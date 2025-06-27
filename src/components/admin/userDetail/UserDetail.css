@@ -1,0 +1,46 @@
+/* UserDetail.css */
+.user-detail {
+  margin: 2rem 1rem;
+}
+
+.user-detail-head {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.user-detail-table-wrapper {
+  overflow-x: auto;
+}
+
+.user-detail-table {
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+}
+
+.user-detail-custom-th {
+  min-width: 200px;
+  padding: 15px;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: 600;
+  background-color: #e7e5e5;
+  color: #166084;
+}
+
+.user-detail-table td {
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0.2);
+  text-align: center;
+  font-size: 0.9rem;
+  padding: 15px 10px;
+}
+
+.user-detail-uid {
+  max-width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
