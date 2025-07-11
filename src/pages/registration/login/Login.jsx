@@ -81,7 +81,7 @@ const Login = () => {
       toast.error("Login Failed");
     }
   };
-
+//Login Page JSX
   return (
     <div className="login-container">
       {/* Loader */}
@@ -133,20 +133,7 @@ const Login = () => {
           </h3>
         </div>
 
-        {/* Credential */}
-        <div className="credential">
-          <p className="credential-heading">Credential</p>
-          <div className="admin-credential">
-            <p>Admin</p>
-            <p>Email: admin@gmail.com</p>
-            <p>password: 12345678</p>
-          </div>
-          <div className="user-credential">
-            <p>User</p>
-            <p>Email: user01@gmail.com</p>
-            <p>password: 12345678</p>
-          </div>
-        </div>
+       
       </div>
     </div>
   );
