@@ -63,7 +63,7 @@ const HomePageProductCard = () => {
                 />
               </div>
               <div className="product-details">
-                <p className="website-name">ezBuy</p>
+                <p className="website-name">ShopSphere</p>
                 <h2 className="product-title">{title.substring(0, 25)}</h2>
                 <p className="product-price">&#8377;{price}</p>
                 <div className="add-to-cart-btn">

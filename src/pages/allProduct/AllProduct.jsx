@@ -65,7 +65,7 @@ const AllProduct = () => {
                 />
               </div>
               <div className="all-product-details">
-                <p className="all-product-website-name">ezBuy</p>
+                <p className="all-product-website-name">ShopSphere</p>
                 <h2 className="all-product-title">{title.substring(0, 25)}</h2>
                 <p className="all-product-price">&#8377;{price}</p>
                 <div className="add-to-cart-btn">

@@ -75,7 +75,7 @@ const CategoryPage = () => {
                       />
                     </div>
                     <div className="product-details">
-                      <p className="website-name">ezBuy</p>
+                      <p className="website-name">ShopSphere</p>
                       <h2 className="product-title">
                         {title.substring(0, 25)}
                       </h2>

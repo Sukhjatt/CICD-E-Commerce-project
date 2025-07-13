@@ -1,6 +1,6 @@
-# ezBuy E-Commerce ReactMarket
+# ShopSphere E-Commerce ReactMarket
 
-Welcome to ezBuy E-Commerce ReactMarket! This project is a full-fledged e-commerce platform built using React, Vite, Redux, Firebase, JavaScript, CSS, and HTML.
+Welcome to ShopSphere E-Commerce ReactMarket! This project is a full-fledged e-commerce platform built using React, Vite, Redux, Firebase, JavaScript, CSS, and HTML.
 
 ## Features
 
@@ -20,4 +20,4 @@ Welcome to ezBuy E-Commerce ReactMarket! This project is a full-fledged e-commer
 - **User Management**: Admins can see the number of users registered in the system.
 
 
-Happy shopping with ezBuy E-Commerce ReactMarket! 🛍️🚀
+Happy shopping with ShopSphere E-Commerce ReactMarket! 🛍️🚀

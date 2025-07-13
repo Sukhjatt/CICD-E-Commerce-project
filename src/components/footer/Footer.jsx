@@ -11,7 +11,7 @@ const Footer = () => {
             <img src={Logo} alt="logo" />
           </div>
           <h2></h2>
-          <p>&copy; 2024 @ezBuy</p>
+          <p>&copy; 2024 @ShopSphere</p>
         </div>
         <div class="social-icons">
           <ul>
